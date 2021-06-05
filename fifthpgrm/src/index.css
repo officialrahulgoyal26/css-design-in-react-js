@@ -1,0 +1,37 @@
+*{ margin: 0%; padding: 0%; box-sizing: border-box;}
+
+.heading{
+  color: chocolate;
+  text-align: center;
+  text-size-adjust: 50;
+  text-decoration-color: crimson;
+  text-transform: capitalize;
+  font-weight: bold;
+  margin: 50px 0;
+  font-family: 'Abel', sans-serif;
+
+ 
+
+}
+.paragraph{
+  color: aqua;
+  text-transform: capitalize;
+  font-size: xx-large;
+  margin: 50px;
+  font-family: 'Abel', sans-serif;
+
+
+  
+}
+.img_div{
+  display: flex;
+  justify-content: center;
+}
+.img_div img {
+  width: 250px;
+  height: 300px;
+  
+
+
+   
+}
